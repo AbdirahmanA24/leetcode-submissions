@@ -1,4 +1,5 @@
 #136) Single Number
+# Topics: Arrays
 def singleNumber(nums):
     count = {}
     for num in nums:
